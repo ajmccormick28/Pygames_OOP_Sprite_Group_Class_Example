@@ -6,7 +6,7 @@ import platform
 import constants
 import random
 
-
+# Main Game Class
 class Game:
 
     def __init__(self, width = 400, height = 450):
